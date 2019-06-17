@@ -13,3 +13,4 @@ To see the game in browser: https://editor.p5js.org/gutentag1026/present/WvrP5w-
 <image src="https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/nuts.png" height="400">
     </br>
 <image src="https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/plastic.png" height="400">
+<image src="https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/result_page.png" height= "400">
