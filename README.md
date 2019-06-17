@@ -7,7 +7,7 @@ To see the game in browser: https://editor.p5js.org/gutentag1026/present/WvrP5w-
 <img src="https://github.com/favicon.ico" height="24">
 
 
-<image src="https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/power.png" height = "50">
+<image src="https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/power.png" height = "200">
 ![alt text](https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/expired%20medicine.png)
 ![alt text](https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/nuts.png)
 ![alt text](https://github.com/gutentag1026/garbage_sorting_mini_game/blob/master/plastic.png)
